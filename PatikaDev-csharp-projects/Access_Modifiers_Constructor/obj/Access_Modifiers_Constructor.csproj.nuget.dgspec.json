@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kanat\\Documents\\GitHub\\Patikadec-CSharp-Projects\\PatikaDev-csharp-projects\\PatikaDev-csharp-projects\\Class-Instance-Field-Property.csproj": {}
+    "C:\\Users\\kanat\\Documents\\GitHub\\Patikadec-CSharp-Projects\\PatikaDev-csharp-projects\\Access_Modifiers_Constructor\\Access_Modifiers_Constructor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kanat\\Documents\\GitHub\\Patikadec-CSharp-Projects\\PatikaDev-csharp-projects\\PatikaDev-csharp-projects\\Class-Instance-Field-Property.csproj": {
+    "C:\\Users\\kanat\\Documents\\GitHub\\Patikadec-CSharp-Projects\\PatikaDev-csharp-projects\\Access_Modifiers_Constructor\\Access_Modifiers_Constructor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kanat\\Documents\\GitHub\\Patikadec-CSharp-Projects\\PatikaDev-csharp-projects\\PatikaDev-csharp-projects\\Class-Instance-Field-Property.csproj",
-        "projectName": "Class-Instance-Field-Property",
-        "projectPath": "C:\\Users\\kanat\\Documents\\GitHub\\Patikadec-CSharp-Projects\\PatikaDev-csharp-projects\\PatikaDev-csharp-projects\\Class-Instance-Field-Property.csproj",
+        "projectUniqueName": "C:\\Users\\kanat\\Documents\\GitHub\\Patikadec-CSharp-Projects\\PatikaDev-csharp-projects\\Access_Modifiers_Constructor\\Access_Modifiers_Constructor.csproj",
+        "projectName": "Access_Modifiers_Constructor",
+        "projectPath": "C:\\Users\\kanat\\Documents\\GitHub\\Patikadec-CSharp-Projects\\PatikaDev-csharp-projects\\Access_Modifiers_Constructor\\Access_Modifiers_Constructor.csproj",
         "packagesPath": "C:\\Users\\kanat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kanat\\Documents\\GitHub\\Patikadec-CSharp-Projects\\PatikaDev-csharp-projects\\PatikaDev-csharp-projects\\obj\\",
+        "outputPath": "C:\\Users\\kanat\\Documents\\GitHub\\Patikadec-CSharp-Projects\\PatikaDev-csharp-projects\\Access_Modifiers_Constructor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
