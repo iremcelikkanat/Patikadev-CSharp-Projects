@@ -1,0 +1,14 @@
+C:\Users\kanat\source\repos\PatikaDev-csharp-projects\PatikaDev-csharp-projects\obj\Debug\net7.0\Class-Instance-Field-Property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanat\source\repos\PatikaDev-csharp-projects\PatikaDev-csharp-projects\obj\Debug\net7.0\Class-Instance-Field-Property.AssemblyInfoInputs.cache
+C:\Users\kanat\source\repos\PatikaDev-csharp-projects\PatikaDev-csharp-projects\obj\Debug\net7.0\Class-Instance-Field-Property.AssemblyInfo.cs
+C:\Users\kanat\source\repos\PatikaDev-csharp-projects\PatikaDev-csharp-projects\obj\Debug\net7.0\Class-Instance-Field-Property.csproj.CoreCompileInputs.cache
+C:\Users\kanat\source\repos\PatikaDev-csharp-projects\PatikaDev-csharp-projects\bin\Debug\net7.0\Class-Instance-Field-Property.exe
+C:\Users\kanat\source\repos\PatikaDev-csharp-projects\PatikaDev-csharp-projects\bin\Debug\net7.0\Class-Instance-Field-Property.deps.json
+C:\Users\kanat\source\repos\PatikaDev-csharp-projects\PatikaDev-csharp-projects\bin\Debug\net7.0\Class-Instance-Field-Property.runtimeconfig.json
+C:\Users\kanat\source\repos\PatikaDev-csharp-projects\PatikaDev-csharp-projects\bin\Debug\net7.0\Class-Instance-Field-Property.dll
+C:\Users\kanat\source\repos\PatikaDev-csharp-projects\PatikaDev-csharp-projects\bin\Debug\net7.0\Class-Instance-Field-Property.pdb
+C:\Users\kanat\source\repos\PatikaDev-csharp-projects\PatikaDev-csharp-projects\obj\Debug\net7.0\Class-Instance-Field-Property.dll
+C:\Users\kanat\source\repos\PatikaDev-csharp-projects\PatikaDev-csharp-projects\obj\Debug\net7.0\refint\Class-Instance-Field-Property.dll
+C:\Users\kanat\source\repos\PatikaDev-csharp-projects\PatikaDev-csharp-projects\obj\Debug\net7.0\Class-Instance-Field-Property.pdb
+C:\Users\kanat\source\repos\PatikaDev-csharp-projects\PatikaDev-csharp-projects\obj\Debug\net7.0\Class-Instance-Field-Property.genruntimeconfig.cache
+C:\Users\kanat\source\repos\PatikaDev-csharp-projects\PatikaDev-csharp-projects\obj\Debug\net7.0\ref\Class-Instance-Field-Property.dll
